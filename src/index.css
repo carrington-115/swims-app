@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap");
 
+body {
+  background-color: rgba(0, 0, 0, 0.02);
+}
 * {
   font-family: "Roboto", sans-serif;
 }
